@@ -357,3 +357,9 @@ figure:hover::after {
     grid-template-columns: repeat(2, 1fr);
   }
 }
+
+.error-page {
+  margin: 10rem auto;
+  margin-top: 1.5rem;
+  max-width: 70vw;
+}

@@ -14,10 +14,10 @@ function App() {
     <BrowserRouter>
       <Navbar />
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/services" element={<Services />} />
-        <Route path="/about" element={<About />} />
-        <Route path="/contact" element={<Contact />} />
+        <Route path="/react-gh-pages/" element={<Home />} />
+        <Route path="/react-gh-pages/services" element={<Services />} />
+        <Route path="/react-gh-pages/about" element={<About />} />
+        <Route path="/react-gh-pages/contact" element={<Contact />} />
         <Route path="*" element={<Error />} />
       </Routes>
       <GoToTop />

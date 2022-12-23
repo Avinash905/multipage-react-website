@@ -5,10 +5,10 @@ import image from "../images/error.svg";
 export default function Error() {
   return (
     <section>
-      <div className="grid error-page">
+      <div className="error-page d-flex flex-column">
         <img src={image} className="w-75 mx-auto" alt="" />
-        <NavLink to="/" className="btn btn-outline-light mx-auto">
-          Go Back
+        <NavLink to="/react-gh-pages" className="btn btn-outline-light mx-auto">
+          Go to Home
         </NavLink>
       </div>
     </section>
