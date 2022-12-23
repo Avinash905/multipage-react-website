@@ -6,15 +6,6 @@ This is a react portfolio website that uses router concept to navigate through d
 👆[Click here](https://avinash905.github.io/multipage-react-website/) to check out the project
 <br/>
 
-### 📃Features :
-
-<ul>
-<li>Convert your text to uppercase</li>
-<li>Convert your text to lowercase</li>
-<li>Remove extra spaces from your text</li>
-<li>Set different background color themes to your website</li>
-</ul>
-
 ### Tools and technologies used :
 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
