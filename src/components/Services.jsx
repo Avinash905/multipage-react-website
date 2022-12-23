@@ -28,7 +28,10 @@ export default function Services() {
                   <div className="card-body">
                     <h5 className="card-title mt-3">{currEle.title}</h5>
                     <p className="card-text">{currEle.desc}</p>
-                    <NavLink to="/services" className="read-more btn">
+                    <NavLink
+                      to="/multipage-react-website/services"
+                      className="read-more btn"
+                    >
                       Read More
                     </NavLink>
                   </div>

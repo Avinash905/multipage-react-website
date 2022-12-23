@@ -12,7 +12,7 @@ export default function Footer() {
               <p className="footer-top-text">Talk to us today</p>
             </div>
             <div className="button text-end">
-              <NavLink to="/contact" className="btn">
+              <NavLink to="/multipage-react-website/contact" className="btn">
                 get started
               </NavLink>
             </div>

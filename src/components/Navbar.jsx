@@ -7,7 +7,7 @@ export default function Navbar() {
     <>
       <nav className="navbar navbar-expand-lg bg-light">
         <div className="container ">
-          <a href="/react-gh-pages" className="navbar-brand me-auto">
+          <a href="/multipage-react-website" className="navbar-brand me-auto">
             <img src={logo} className="logo-img" alt="logo" />
           </a>
           <button
@@ -24,22 +24,31 @@ export default function Navbar() {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav ms-auto mb-2 mb-lg-0 d-flex gap-4">
               <li className="nav-item">
-                <NavLink className="nav-link" to="/react-gh-pages/">
+                <NavLink className="nav-link" to="/multipage-react-website/">
                   Home
                 </NavLink>
               </li>
               <li className="nav-item">
-                <NavLink className="nav-link" to="/react-gh-pages/about">
+                <NavLink
+                  className="nav-link"
+                  to="/multipage-react-website/about"
+                >
                   About
                 </NavLink>
               </li>
               <li className="nav-item">
-                <NavLink className="nav-link" to="/react-gh-pages/services">
+                <NavLink
+                  className="nav-link"
+                  to="/multipage-react-website/services"
+                >
                   Services
                 </NavLink>
               </li>
               <li className="nav-item">
-                <NavLink className="nav-link" to="/react-gh-pages/contact">
+                <NavLink
+                  className="nav-link"
+                  to="/multipage-react-website/contact"
+                >
                   Contact
                 </NavLink>
               </li>

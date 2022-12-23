@@ -7,7 +7,10 @@ export default function Error() {
     <section>
       <div className="error-page d-flex flex-column">
         <img src={image} className="w-75 mx-auto" alt="" />
-        <NavLink to="/react-gh-pages" className="btn btn-outline-light mx-auto">
+        <NavLink
+          to="/multipage-react-website"
+          className="btn btn-outline-light mx-auto"
+        >
           Go to Home
         </NavLink>
       </div>

@@ -13,7 +13,10 @@ export default function HeroSection({ topSpan, name, image }) {
               I'm the Founder and CEO of ZenAvi. Also full stack developer and a
               freelancer.
             </p>
-            <NavLink to="/contact" className="btn btn-outline-light">
+            <NavLink
+              to="/multipage-react-website/contact"
+              className="btn btn-outline-light"
+            >
               Hire me
             </NavLink>
           </div>

@@ -35,8 +35,6 @@ export default function Contact() {
                     placeholder="Enter your full name"
                     required
                     name="name"
-                    // value={input.fullname}
-                    // onChange={inputEvent}
                   />
                 </div>
               </div>
@@ -55,8 +53,6 @@ export default function Contact() {
                     placeholder="example@xyz.com"
                     required
                     name="email"
-                    // value={input.email}
-                    // onChange={inputEvent}
                   />
                 </div>
               </div>
@@ -71,8 +67,6 @@ export default function Contact() {
                     rows="5"
                     required
                     name="message"
-                    // value={input.text}
-                    // onChange={inputEvent}
                   ></textarea>
                 </div>
               </div>
