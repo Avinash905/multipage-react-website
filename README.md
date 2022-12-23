@@ -14,7 +14,6 @@ This is a react portfolio website that uses router concept to navigate through d
 <li>Remove extra spaces from your text</li>
 <li>Set different background color themes to your website</li>
 </ul>
-<br/>
 
 ### Tools and technologies used :
 
